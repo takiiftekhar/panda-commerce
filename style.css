@@ -23,3 +23,42 @@
 
 
  }
+ .cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #fff;
+
+
+ }
+ .categories img{
+    width: 100px;
+ }
+
+ .cat1{
+    background-color: orange;
+    
+ }
+ .cat2{
+    background-color: orchid;
+ }
+ .cat3{
+    background-color: blue;
+ }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+#colr{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
